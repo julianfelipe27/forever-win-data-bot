@@ -1,0 +1,1 @@
+This is a bot developed by Rapture to scrap data about soccer leagues
